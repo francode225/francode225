@@ -57,8 +57,9 @@ My goal is to design and develop digital solutions that make life easier and mor
 I'm always open to collaborations, open-source contributions, and learning new technologies together.  
 
 📫 **Email:** yeogneneman24@gmail.com  
-💼 **LinkedIn:** www.linkedin.com/in/francois-yeo
-🌐 **Portfolio:**  
+![GMAIL](https://img.shields.io/badge/gmail?style=for-the-badge&logo=gmail&logoColor=white)
+💼 **LinkedIn:** www.linkedin.com/in/francois-yeo 
+🌐 **Portfolio:**  bientôt
 
 ---
 
