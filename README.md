@@ -15,7 +15,7 @@ My goal is to design and develop digital solutions that make life easier and mor
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
+![with a logo](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
